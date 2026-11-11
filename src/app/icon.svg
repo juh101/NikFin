@@ -1,0 +1,11 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512' version='2.0'>
+  <rect width='512' height='512' rx='128' fill='#0F1220'/>
+  <defs>
+    <linearGradient id='logo-grad-v2' x1='0%' y1='0%' x2='100%' y2='100%'>
+      <stop offset='0%' stop-color='#5B5CE2'/>
+      <stop offset='100%' stop-color='#22D3EE'/>
+    </linearGradient>
+  </defs>
+  <text x='50%' y='48%' text-anchor='middle' font-family='Inter, sans-serif' font-weight='800' font-size='280' fill='url(#logo-grad-v2)' dy='.35em'>₹</text>
+  <path d='M180 410 H332' stroke='#10B981' stroke-width='24' stroke-linecap='round'/>
+</svg>
